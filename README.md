@@ -1,5 +1,7 @@
 # PacketTracerInstaller
-Packet Tracer Installer especially for not debian distributions
+Packet Tracer Installer especially for not debian distributions.
+Tested on openSUSE Tumbleweed.
+Looking forward for test on Fedora, Manjaro, MX Linux, PCLinuxOS, Arch Linux and other distributions.
 
 --------------
 Thanks to https://grupp-web.de/cms/2020/01/03/installation-of-packet-tracer-7-3-on-rpm-linux-systems-without-alien/ so I can automate that command.
